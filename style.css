@@ -149,17 +149,6 @@ a{
 .error h1{
     font-size: 12rem;
 }
-.error h1 span{
-    animation: sad 5s 1;
-}
-@keyframes sad{
-    from{
-        opacity: 0;
-    }
-    to{
-        opacity: 1;
-    }
-}
 .msg{
     margin: auto;
     text-align: center;                                                        
